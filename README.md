@@ -1,5 +1,7 @@
 # SIMRS CoreX - Core Exchange Platform
 
+![SIMRS CoreX](./login.png)
+
 Sistem Informasi Manajemen Rumah Sakit (SIMRS) CoreX adalah aplikasi web terintegrasi yang memudahkan pengelolaan jadwal dokter dan integrasi dengan API eksternal. Dibangun khusus untuk RSUD M. Natsir Solok dengan interface yang user-friendly dan responsif.
 
 ## 🎯 Fitur Utama
@@ -17,8 +19,6 @@ Sistem Informasi Manajemen Rumah Sakit (SIMRS) CoreX adalah aplikasi web terinte
 ### Login Page
 ![Login Page](./login.png)
 
-### Dashboard
-
 ### Referensi Jadwal Dokter
 ![Referensi Jadwal](./referensidokter.png)
 
@@ -31,7 +31,6 @@ Sistem Informasi Manajemen Rumah Sakit (SIMRS) CoreX adalah aplikasi web terinte
 - **Web Server** (Apache/Nginx)
 - **Composer** untuk dependency management
 - **Browser Modern** (Chrome, Firefox, Safari, Edge)
-- **Node.js** (opsional, hanya untuk development tools)
 
 ## 📦 Instalasi
 
@@ -48,9 +47,8 @@ composer install
 
 ### 3. Setup Konfigurasi
 - Pastikan folder uploads memiliki permission 755
-```
 
-### 5. Akses Aplikasi
+### 4. Akses Aplikasi
 Buka browser dan akses:
 ```
 http://localhost/simrs-corex
@@ -127,7 +125,6 @@ simrs-corex/
 - Kelola kredensial API di halaman setting
 - Simpan kredensial ke local storage browser
 - Hapus kredensial jika diperlukan
-```
 
 ## 🐛 Troubleshooting
 
@@ -173,5 +170,7 @@ Terima kasih kepada:
 - Semua contributors
 
 ---
+
 **Develop by Maizan Insani Akbar**
+
 **Powered by SIMRS 2025** | RSUD M. Natsir Solok
