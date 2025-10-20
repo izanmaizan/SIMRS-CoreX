@@ -18,10 +18,9 @@ Sistem Informasi Manajemen Rumah Sakit (SIMRS) CoreX adalah aplikasi web terinte
 ![Login Page](./login.png)
 
 ### Dashboard
-![Dashboard](./updatejadwal.png)
 
 ### Referensi Jadwal Dokter
-![Referensi Jadwal](./referensiidokter.png)
+![Referensi Jadwal](./referensidokter.png)
 
 ### Update Jadwal Dokter
 ![Update Jadwal](./updatejadwal.png)
